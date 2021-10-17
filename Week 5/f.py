@@ -1,5 +1,6 @@
 """
     Menggunakan while loop
+    Resa
 """
 
 angka = 1

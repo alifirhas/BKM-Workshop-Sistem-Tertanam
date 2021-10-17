@@ -1,5 +1,6 @@
 """
     Mengenali tipe data biner
+    Pinka
 """
 
 # https://www.tutorialspoint.com/python/python_basic_operators.htm

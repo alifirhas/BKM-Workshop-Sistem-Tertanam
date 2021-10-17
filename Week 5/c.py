@@ -1,5 +1,6 @@
 """
-    Menggunakan segitiga sama sisi
+    Membuat segitiga siku-siku
+    Alif
 """
 
 for i in range(0, 10):          # Nyetak baris baru

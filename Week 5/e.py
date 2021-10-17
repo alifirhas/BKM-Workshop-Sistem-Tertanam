@@ -1,5 +1,6 @@
 """
     Menggunakan while loop
+    Radit
 """
 
 angka = 1

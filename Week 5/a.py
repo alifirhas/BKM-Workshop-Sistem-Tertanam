@@ -1,5 +1,6 @@
 """
     Menggunakan variable dan print
+    Radit
 """
 
 a, b = 30, 25           # Multi assigment

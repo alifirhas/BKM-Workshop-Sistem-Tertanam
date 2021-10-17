@@ -1,5 +1,6 @@
 """
     Buat segitiga siku-siku
+    Pinka
 """
 
 for i in range(0, 10):              # Cetak baris

@@ -11,6 +11,8 @@ Output akan menjadi seperti ini
 
 range dari 13-6 dan 2-1, dengan angka 11 dan 8 dilompati
 
+Alif
+
 """
 
 from itertools import chain

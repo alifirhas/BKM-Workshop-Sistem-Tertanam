@@ -3,6 +3,8 @@
 Terdapat variable mulai untuk set angka awal
 variable akhir untuk batas angka
 
+Radit
+
 """
 mulai = 1               # Hitung bilangan prima dari mulai
 akhir = 30              # sampai akhir
@@ -18,3 +20,5 @@ for angka in range(mulai, akhir+1):             # Iterasi range angka mulai -> a
             a += 1
         else: # loop not exited via break
             print(angka, end = " ")
+            
+print(" ")

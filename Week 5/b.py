@@ -1,5 +1,6 @@
 """
     Menggunakan for statement
+    Pinka
 """
 
 for i in range (1, 10):
