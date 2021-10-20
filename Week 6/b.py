@@ -5,7 +5,7 @@
 """
 
 def tri_recursion(num):
-    """Fungsi factorial menggunakan recursion
+    """Fungsi sum menggunakan recursion
 
     Args:
         num (int): nilai yang akan proses
